@@ -2,6 +2,8 @@
 
 This is a project-based course that provides students an opportunity to integrate and apply their statistical knowledge to analyzing data.
 
+All programs are written in SAS language
+
 ## Introduction (Project 1)
 Multiple linear regression is applied for predicting the age of abalone. It was found that multicollinearity between 
 predictors, which makes the prediction more difficulty. Initially, ridge regression is used.Model selection using LASSO is applied in the 
